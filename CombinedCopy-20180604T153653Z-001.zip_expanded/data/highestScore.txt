@@ -1,0 +1,14 @@
+lili yang,5
+Another,10
+Kaka,15
+shravya,30
+shravya,0
+shravya,10
+swetha,15
+yash,25
+varna,60
+gyanu,60
+gyanu,0
+gyanu,30
+shravya,0
+rgg,0
